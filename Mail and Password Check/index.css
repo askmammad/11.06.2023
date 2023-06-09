@@ -9,3 +9,7 @@
 .mb-3{
     width: 500px;
 }
+
+.hidden{
+    display: none;
+}

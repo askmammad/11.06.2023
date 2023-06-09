@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px; 
+}
+.main_container{
+    padding: 100px ;
+}
+.mb-3{
+    width: 500px;
+}
